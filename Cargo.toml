@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-tmux component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-tmux"
+name = "sigmaos_archlinux_tmux"
 path = "src/lib.rs"
