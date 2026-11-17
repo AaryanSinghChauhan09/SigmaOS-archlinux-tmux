@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-tmux"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-tmux component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
